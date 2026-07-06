@@ -9,7 +9,7 @@ Tools for managing rack PDUs at scale.
 - **[raritan-pdu-json-rpc-sdk](https://github.com/wh0oo/raritan-pdu-json-rpc-sdk)** — SDK/helper layer for talking to Raritan PX3-series PDUs over their JSON-RPC API.
 
 ### 🎮 Minecraft / Fabric Mods
-All Fabric mods except `scarpet-scripts`, which is Scarpet (server-side scripting) instead.
+All Fabric mods except the scarpet scripts.
 
 - **[deepchat](https://github.com/wh0oo/deepchat)** — Fabric mod that integrates DeepSeek into Minecraft.
 - **[brag](https://github.com/wh0oo/brag)** — Adds a `/brag` command for players (MC 26.1.2/26.2).
