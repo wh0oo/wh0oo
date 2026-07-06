@@ -2,7 +2,7 @@
 
 ## Hi there 👋
 
-Systems/IT person, datacenter infrastructure engineer, Minecraft server admin, and occasional developer.
+Systems/IT person, datacenter infrastructure engineer, Minecraft server admin, and occasional maker.
 
 I work on a lot more than what is here. This profile is mostly the public stuff I share: infrastructure automation, Minecraft/Fabric projects, older WordPress work, and miscellaneous experiments.
 
