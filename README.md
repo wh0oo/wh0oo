@@ -4,7 +4,8 @@
 
 Systems/IT-ish person, datacenter monkey, Minecraft server admin, occasional maker and an OG (Original Geek) .
 
-This is some of the stuff I've been messing around with lately.
+About this:
+I wrote the awesome, classic Perl script and the WordPress plugins before we had the almighty Al. Just sayin. They be hella old.
 
 ---
 
