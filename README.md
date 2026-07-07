@@ -32,7 +32,7 @@ You can also find some of these projects on **[Modrinth](https://modrinth.com/us
 - **[GreenClock](https://github.com/wh0oo/GreenClock)** — Restores scheduled growth behavior for cactus, bamboo, and sugar cane in specific 0-tick-style farm setups.
 - **[cheerios](https://github.com/wh0oo/cheerios)** — Small server-side utility mod work.
 - **[sweepy](https://github.com/wh0oo/sweepy)** — Minecraft utility/modding work.
-- **[scarpet-scripts](https://github.com/wh0oo/scarpet-scripts)** — Scarpet scripts and experiments.
+- **[scarpet-scripts](https://github.com/wh0oo/scarpet-scripts)** — Scarpet scripts I've made: ping and seen.
 
 ---
 
