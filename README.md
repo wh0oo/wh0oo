@@ -11,7 +11,7 @@ I wrote the awesome, classic Perl script and the WordPress plugins before we had
 
 ## 🏢 Datacenter / Infrastructure Automation
 
-Tools for automating tedious infrastructure tasks, especially around rack PDUs and datacenter operations.
+My scripts for automating repetitive Raritan PX-series rack PDU configuration and datacenter operations tasks.
 
 - **[python-scripts-for-raritan-pdu-deployment](https://github.com/wh0oo/python-scripts-for-raritan-pdu-deployment)** — Python command-line scripts for bulk-managing Raritan PX-series rack PDUs over the Raritan JSON-RPC API. Includes tooling for password rotation, firmware checks/updates, DNS-based naming, RADIUS setup, and SNMPv3 staging.
 
