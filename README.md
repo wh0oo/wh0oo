@@ -22,16 +22,16 @@ Server-side Minecraft projects, Fabric mods, datapacks, and related experiments.
 
 You can also find some of these projects on **[Modrinth](https://modrinth.com/user/wh0oo)**.
 
-- **[brag](https://github.com/wh0oo/brag)** — Adds `/brag`, a small server-side Fabric command that lets players show off the item they are holding in chat.
+- **[brag](https://github.com/wh0oo/brag)** — Adds `/brag`, a command that lets players show off the item they are holding in chat.
 - **[ObsiCry](https://github.com/wh0oo/ObsiCry)** — Lets Nether portals be built from any mix of obsidian and crying obsidian.
-- **[fortune](https://github.com/wh0oo/fortune)** — Gives players a random fortune on join.
+- **[fortune](https://github.com/wh0oo/fortune)** — Gives players a random fortune on join, like the Linux `fortune` .
 - **[deepchat](https://github.com/wh0oo/deepchat)** — Integrates DeepSeek-powered chat into Minecraft.
 - **[votebridge-mod](https://github.com/wh0oo/votebridge-mod)** — Bridges vote events from NuVotifier/VoteListener into Minecraft chat with placeholder and color support.
 - **[suedew](https://github.com/wh0oo/suedew)** — `sudo`-style Fabric mod for server admins to simulate command execution as another player.
 - **[Meteorolocracy](https://github.com/wh0oo/Meteorolocracy)** — Weather voting for Minecraft.
-- **[GreenClock](https://github.com/wh0oo/GreenClock)** — Restores scheduled growth behavior for cactus, bamboo, and sugar cane in specific 0-tick-style farm setups.
-- **[cheerios](https://github.com/wh0oo/cheerios)** — Small server-side utility mod work.
-- **[sweepy](https://github.com/wh0oo/sweepy)** — Minecraft utility/modding work.
+- **[GreenClock](https://github.com/wh0oo/GreenClock)** — Restores 0-tick farms for cactus, bamboo, and sugar cane.
+- **[cheerios](https://github.com/wh0oo/cheerios)** — Small server-side utility to clean the log.
+- **[sweepy](https://github.com/wh0oo/sweepy)** — Clearlag, basically.
 - **[scarpet-scripts](https://github.com/wh0oo/scarpet-scripts)** — Scarpet scripts I've made: ping and seen.
 
 ---
