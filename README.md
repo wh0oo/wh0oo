@@ -4,7 +4,7 @@
 
 Systems/IT-ish person, datacenter monkey, Minecraft server admin, occasional maker and an OG (Original Geek) .
 
-I work on a lot more than what is here. This profile is mostly the public stuff I share: infrastructure automation, Minecraft/Fabric projects, older WordPress work, and miscellaneous experiments.
+This is some of the stuff I've been messing around with lately.
 
 ---
 
